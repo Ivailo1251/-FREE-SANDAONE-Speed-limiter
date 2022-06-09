@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
+
+body {
+  font-family:
+		system-ui,
+		-apple-system, /* Firefox supports this but not yet `system-ui` */
+		'Segoe UI',
+		Sawarabi Gothic,
+		Helvetica,
+		Arial,
+		sans-serif,
+		'Apple Color Emoji',
+		'Segoe UI Emoji';
+}
+
+
+.m1l-2-c {
+  margin-left: 0.5rem;
+  font-size: 22;
+  position: absolute;
+  top: 790px;
+	left: 6px; 	
+}
+.m1l-2 {
+	margin-left: 0.5rem;
+	font-size: 50;
+	position: absolute;
+	top: 770px;
+	left: 0px; 	
+}
